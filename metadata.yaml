@@ -1,0 +1,39 @@
+_repo: Melusine-Nouvelle-edition-conforme-a-celle-de-1478-revue-et-corrigee_65457
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Brunet, Charles
+    gutenberg_agent_id: '53361'
+    url: http://www.gutenberg.org/2009/agents/53361
+creator:
+  author:
+    agent_name: Jean, d'Arras, active 14th century
+    aliases:
+    - D'Arras, Jean
+    - Jehan, d'Arras
+    - Johannes, von Arras
+    - d'Arras, Jehan
+    - Arras, Jean d'
+    gutenberg_agent_id: '49527'
+    url: http://www.gutenberg.org/2009/agents/49527
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jean_d'Arras
+    - https://en.wikipedia.org/wiki/Jean_d%27Arras
+description: ''
+gutenberg_issued: '2021-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65457'
+  lccn: ca11002700
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Melusine (Legendary character) -- Romances'
+- GITenberg
+title: 'Mélusine
+
+  Nouvelle édition, conforme à celle de 1478, revue et corrigée'
+url: http://www.gutenberg.org/ebooks/65457
